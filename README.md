@@ -32,6 +32,6 @@
 
 📧 E-mail: coelhocadu0909@gmail.com
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/carlos-eduardo-coelho-349548300
 
 ---
