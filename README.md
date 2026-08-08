@@ -12,7 +12,7 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-F05032?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C#-F05032?style=for-the-badge&logo=C#&logoColor=white)
+![C#](https://img.shields.io/badge/C++-F05032?style=for-the-badge&logo=C++&logoColor=white)
 
 ---
 
