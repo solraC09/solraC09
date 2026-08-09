@@ -24,6 +24,7 @@
 
 ## Contribuição
 
+![GitHub Streak](https://streak-stats.demolab.com?user=solraC09&theme=tokyonight&hide_border=true)
 
 ---
 
