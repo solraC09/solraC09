@@ -1,7 +1,7 @@
 --- 
 ## Carlos Morais
 
- Desenvolvedor de Jogos em formação.  
+ Desenvolvedor de Jogos em formação  
  Criando jogos usando a Unity engine.  
 
 
