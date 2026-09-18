@@ -13,6 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-F05032?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-F05032?style=for-the-badge&logo=c%23&logoColor=white)
+![DJango](https://img.shields.io/badge/DJango-F05032?style=for-the-badge&logo=django%23&logoColor=white)
 
 ---
 
