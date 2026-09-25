@@ -1,4 +1,3 @@
---- 
 ## Carlos Morais
 
  Desenvolvedor de Jogos em formação  
@@ -15,19 +14,18 @@
 ![C#](https://img.shields.io/badge/C%23-F05032?style=for-the-badge&logo=c%23&logoColor=white)
 ![DJango](https://img.shields.io/badge/DJango-F05032?style=for-the-badge&logo=django%23&logoColor=white)
 
----
 
 ## Estatísticas
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solraC09&theme=github_dark)
 
----
+
 
 ## Contribuição
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=solraC09&theme=tokyonight&hide_border=true)
 
----
+
 
 ## Como me encontrar
 
@@ -35,4 +33,4 @@
 
 💼 LinkedIn: www.linkedin.com/in/carlos-eduardo-coelho-349548300
 
----
+
